@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<bindings>
+    <mapping name="world_map_menu_track_waypoint" type="Button" SIEJADependent="true" >
+            <button id="IK_Pad_A_CROSS"/>
+            <button id="IK_Space"/>
+    </mapping>
+</bindings>
